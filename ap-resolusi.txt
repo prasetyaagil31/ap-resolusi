@@ -3,3 +3,4 @@ AP Resolusi
 - belajar CSS
 - belajar JavaScript
 - belajar Figma
+- belajar R
