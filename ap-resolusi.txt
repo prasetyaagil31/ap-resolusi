@@ -2,3 +2,4 @@ AP Resolusi
 - belajar HTML
 - belajar CSS
 - belajar JavaScript
+- belajar Figma
