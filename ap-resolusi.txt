@@ -1,6 +1,6 @@
 AP Resolusi
 - belajar HTML
 - belajar CSS
-- belajar JavaScript
+- belajar Javacript
 - belajar Figma
-- belajar R
+- belajar ReactJS
